@@ -3,7 +3,7 @@
 Web Developer | Passionate Problem Solver | Building Modern Web | AI Assisted Developer
 </h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Java+%7C+SpringBoot+Learner;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Java+%7C+Spring+Boot;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Web Developer | Passionate Problem Solver | Building Modern Web | AI Assisted De
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,github" alt="Tech Stack" />
 </p>
 
 ---
